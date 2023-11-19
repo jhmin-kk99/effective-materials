@@ -1,5 +1,5 @@
 # effective-materials
-effective pdfs for build a project   
+effective materials for build a project   
 
 #1 Application Architecture  Guide v2 [https://www.docsity.com/en/microsoft-application-architecture-guide-v2-0/2112505/]     
 
@@ -11,7 +11,7 @@ effective pdfs for build a project
 
 #5 object-oriented-programming-using-java [https://www.minds.co.za/wp-content/uploads/2019/06/object-oriented-programming-using-java.pdf]    
 
-#6 pablos_solid_ebook [file:///C:/Users/user/Desktop/pablos_solid_ebook.pdf]    
+#6 pablos_SOLID_ebook [https://lostechies.com/wp-content/uploads/2011/03/pablos_solid_ebook.pdf]    
 
 #7 Design Patterns, Elements of Reusable Object-Oriented Software [https://github.com/nilgadia/books/blob/master/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf]   
 
