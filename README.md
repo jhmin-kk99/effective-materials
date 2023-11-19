@@ -15,7 +15,9 @@ effective materials for building a project
 
 #7 Design Patterns, Elements of Reusable Object-Oriented Software [https://github.com/nilgadia/books/blob/master/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf]   
 
-#8 clean_code [https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf]
+#8 clean_code [https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf]   
+
+#9 12- Factor apps/15- Factor Apps of Modern Cloud Native application [https://cloudificationzone.com/2020/06/15/12-factor-apps-15-factor-apps/#]
 
 
 
