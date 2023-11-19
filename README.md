@@ -1,5 +1,5 @@
 # effective-materials
-effective materials for build a project   
+effective materials for building a project   
 
 #1 Application Architecture  Guide v2 [https://www.docsity.com/en/microsoft-application-architecture-guide-v2-0/2112505/]     
 
