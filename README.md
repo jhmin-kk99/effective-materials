@@ -1,7 +1,7 @@
 # effective-materials
 effective materials for building a project   
 
-#1 Application Architecture  Guide v2 [https://www.docsity.com/en/microsoft-application-architecture-guide-v2-0/2112505/]     
+#1 Application Architecture  Guide v2 [http://fizyka.umk.pl/~jacek/docs/net/Application_Architecture_Guide_v2.pdf]     
 
 #2 Martunfowler Software Architecture Guide  [https://martinfowler.com/architecture/]
 
